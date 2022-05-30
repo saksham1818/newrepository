@@ -6,17 +6,17 @@ int c;
 int add()
 {
     cout<<"Enter 1st number : "; 
-    cin>>a; 
+    cin>>a;  
     cout<<"Enter 2nd number : "; 
     cin>>b;  
-    cout<<"Addition = "<<a+b<<endl; 
-}
+    cout<<"Addition = "<<a+b<<endl;  
+}  
 int main () 
 { 
 float a,b,PI; 
 int c; 
 cout<<endl; 
-cout<<"******************** Calculator ******************\n"; 
+cout<<"******************** Calculator ******************\n";  
 cout<<"---------------------------------------------------\n"; 
 cout<<"Operations\t"<<"\tTrigonometric Functions"<<"\t\tLogarithmic Functions\n"; 
 cout<<"------------------------------------------------\n"; 
